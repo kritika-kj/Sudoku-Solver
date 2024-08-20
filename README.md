@@ -1,2 +1,2 @@
 # Sudoku-Solver
-this is a repository that contain sudoku solver code.. 
+This is my first mini project using C++ and DSA.
